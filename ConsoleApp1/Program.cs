@@ -3,6 +3,7 @@ Console.WriteLine("Vad heter du?");
 string name = Console.ReadLine();
 
 string place = Console.ReadLine();
+
 string thing = Console.ReadLine();
 
 Console.WriteLine("Hej Läraren");
